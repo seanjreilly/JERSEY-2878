@@ -1,0 +1,1 @@
+A simple gradle project demonstrating the jersey JIRA issue 2878: https://java.net/jira/browse/JERSEY-2878
